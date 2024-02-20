@@ -1,4 +1,4 @@
 server:
     port: 9000
     servlet:
-        context-path: /myapp
+        context-path: /BooksAppAPI
